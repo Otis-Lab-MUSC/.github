@@ -23,7 +23,9 @@ Our lab’s work centers on:
 
 ## Projects
 
-*(Coming soon!)*
+- [Doncheck, Gordon-Fennell, et al. 2024 Nature Protocols](https://github.com/orgs/Otis-Lab-MUSC/projects/1)
+
+*(more coming soon!)*
 
 ## Get Involved
 
