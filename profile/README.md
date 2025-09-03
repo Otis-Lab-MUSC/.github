@@ -21,12 +21,6 @@ Our lab’s work centers on:
 - **Behavioral Studies**: Developing custom mouse behavioral assays, including a novel head-fixed drug self-administration model, to study addiction-related behaviors with precision.
 - **Cellular Mechanisms**: Employing patch-clamp electrophysiology to explore how neurons and glial cells contribute to reward processing and drug-seeking.
 
-## Projects
-
-- [Doncheck, Gordon-Fennell, et al. 2024 Nature Protocols](https://github.com/orgs/Otis-Lab-MUSC/projects/1)
-
-*(more coming soon!)*
-
 ## Get Involved
 
 We welcome collaboration with researchers, students, and professionals interested in neuroscience and addiction research. To learn more or contribute:
